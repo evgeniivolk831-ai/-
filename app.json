@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Sherlock OSINT",
+    "slug": "sherlock-osint-android",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.sherlockosint.mobile",
+      "versionCode": 1,
+      "permissions": [
+        "INTERNET"
+      ]
+    }
+  }
+}
